@@ -71,7 +71,7 @@
 
 ### 📥 **App Download**
 
-[![Download APK] https://drive.google.com/file/d/1Hfx3clldpdiNb9-SIvOFTqojT7hxOUfM/view?usp=sharing
+--> [Download APK] https://drive.google.com/file/d/1Hfx3clldpdiNb9-SIvOFTqojT7hxOUfM/view?usp=sharing
 
 > **Note:** Click the button above to download the `.apk` file and install the app on your Android device.
 
